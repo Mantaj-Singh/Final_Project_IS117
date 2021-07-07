@@ -1,0 +1,28 @@
+/*DEVELOPER: Mantaj Singh, IS117-040, Spring, 2021 */
+.jumbotron {
+    width: 100%;
+    background-image: url("../img/Jumbotron bgd.jpg");
+    background-size: auto;
+    color: white;
+    text-align: center;
+
+}
+body {
+    background-color: #fffded;
+}
+#para {
+    padding: 0 15% 0;
+    font-size: 150%;
+
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 1rem;
+}
